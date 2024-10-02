@@ -129,4 +129,4 @@ dmypy.json
 .pyre/
 
 just_test.ipynb
-assignment_pandas.ipynb
+pandas_test.ipynb

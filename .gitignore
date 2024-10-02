@@ -127,6 +127,8 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+.idea
+.gitignore
 
 just_test.ipynb
 pandas_test.ipynb

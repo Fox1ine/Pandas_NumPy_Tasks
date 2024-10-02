@@ -1,4 +1,4 @@
-#  Pandas and NumPy just solving tasks
+#  Pandas and NumPy tasks
 
 This project contains solutions to various data analysis tasks using **Pandas** and **NumPy**. The goal is to explore datasets and solve specific problems, focusing on practical applications of these libraries.
 
